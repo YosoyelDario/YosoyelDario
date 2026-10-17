@@ -1,16 +1,61 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Dario Fuentes
 
-<!--
-**YosoyelDario/YosoyelDario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/dario-fuentes-695505318)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:darioofp@gmail.com)
 
-Here are some ideas to get you started:
+### ¡Qué bueno verte por aquí!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería Civil Informática en la Pontificia Universidad Católica de Valparaíso (PUCV), cursando el 8° semestre. Actualmente me interesa sobre todo el **desarrollo web** y la **ciberseguridad**.
+
+Estoy practicando con proyectos propios: aplicaciones con React e Ionic en el frontend, APIs con Node.js (Express y NestJS), bases de datos con PostgreSQL y contenedores con Docker. Me considero una persona curiosa, responsable y con ganas de seguir aprendiendo.
+---
+
+### Un poco sobre mí
+
+- 🛠 &nbsp; Actualmente desarrollo apps con React, Ionic, Node.js (Express y NestJS), PostgreSQL y Docker.
+- 🔐 &nbsp; Me interesa aprender ciberseguridad y buenas prácticas para construir aplicaciones seguras.
+- 🌎 &nbsp; Idiomas: español (nativo) e inglés básico ( B1).
+
+### Lo que más me gusta
+
+- 💻 &nbsp; Explorar nuevas tecnologías y construir proyectos.
+- 📰 &nbsp; Leer y ver contenido sobre tecnología.
+
+### Lenguajes y herramientas
+
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+
+### Proyectos y estadísticas
+
+<details>
+  <summary><b>⚡ Estadísticas de GitHub</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Rachas de GitHub</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true" />
+</details>
+
+---
+
+<div align="center">
+
+### ¡Muestra tu apoyo con una ⭐ en mis repositorios!
+
+</div>
