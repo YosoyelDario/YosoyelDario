@@ -1,6 +1,6 @@
 ## ¡Hola! Soy Dario Fuentes 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/dario-fuentes-695505318)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darioofp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:darioofp@gmail.com)
 
 Soy estudiante de Ingeniería Civil Informática en la Pontificia Universidad Católica de Valparaíso (PUCV), cursando el 8° semestre. Actualmente me interesa sobre todo el **desarrollo web** y la **ciberseguridad**.
