@@ -51,7 +51,7 @@ Estoy practicando con proyectos propios: aplicaciones con React e Ionic en el fr
 
 <div align="center">
 
-###  VIVA DMC
+### DMC
 <img width="498" height="446" alt="dante-devil-may-cry-dmc3spinning" src="https://github.com/user-attachments/assets/a037cddf-be03-46b3-b0ec-a2c2977145a8" />
 
 
