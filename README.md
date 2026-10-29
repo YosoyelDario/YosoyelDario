@@ -11,14 +11,10 @@ Estoy practicando con proyectos propios: aplicaciones con React e Ionic en el fr
 
 ### Sobre mi.
 
-- 🛠 &nbsp; Actualmente desarrollo apps con React, Ionic, Node.js (Express y NestJS), PostgreSQL y Docker.
-- 🔐 &nbsp; Me interesa aprender ciberseguridad y buenas prácticas para construir aplicaciones seguras.
+- 🛠 &nbsp; Actualmente desarollo de apps con React y Ionic, Node.js (Express y NestJS), PostgreSQL y Docker.
+- 🔐 &nbsp; Me interesa aprender nuevos frameworks, ciberseguridad y buenas prácticas para construir aplicaciones seguras.
 - 🌎 &nbsp; Idiomas: español (nativo) e inglés básico ( B1).
 
-### Lo que más me gusta
-
-- 💻 &nbsp; Explorar nuevas tecnologías y construir proyectos.
-- 📰 &nbsp; Leer y ver contenido sobre tecnología.
 
 ### Lenguajes y herramientas
 
